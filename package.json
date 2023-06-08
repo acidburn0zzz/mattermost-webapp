@@ -163,7 +163,7 @@
     "webpack-dev-server": "3.9.0",
     "webpack-livereload-plugin": "2.2.0",
     "webpack-node-externals": "1.7.2",
-    "webpack-pwa-manifest": "4.1.1",
+    "webpack-pwa-manifest": "4.3.0",
     "yup": "0.27.0"
   },
   "jest": {
