@@ -9,7 +9,7 @@
     "cypress-multi-reporters": "1.2.4",
     "cypress-plugin-tab": "1.0.5",
     "cypress-wait-until": "1.6.1",
-    "express": "4.17.1",
+    "express": "4.19.2",
     "lodash": "4.17.15",
     "merge-deep": "3.0.2",
     "mocha": "7.0.1",
